@@ -1,5 +1,3 @@
 # Riamenix
 
-> Quality first
-
-A software development company based in Tunisia.
+> High-Altitude Engineering, Stratosphere-Grade Software
